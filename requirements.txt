@@ -5,3 +5,4 @@ python-utils
 numpy
 opencv-python-headless
 uuid
+keras_facenet
