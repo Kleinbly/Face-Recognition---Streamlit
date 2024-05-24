@@ -1,8 +1,10 @@
 tensorflow
 pillow
-streamlit==1.34.0
 numpy
 opencv-contrib-python
 uuid
 keras_facenet
 scikit-learn
+cmake
+pyyaml
+streamlit==1.22.0
