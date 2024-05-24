@@ -6,3 +6,4 @@ uuid
 keras_facenet
 scikit-learn
 streamlit==1.22.0
+python-utils
