@@ -2,8 +2,7 @@ tensorflow
 pillow
 streamlit==1.34.0
 numpy
-opencv-contrib-python-headless
+opencv-contrib-python=4.5.5
 uuid
 keras_facenet
 scikit-learn
-openpyxl
