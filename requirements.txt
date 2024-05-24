@@ -1,6 +1,6 @@
 tensorflow
 pillow
-streamlit==1.31.1
+streamlit
 python-utils
 numpy
 opencv-contrib-python-headless
