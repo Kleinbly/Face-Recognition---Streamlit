@@ -3,7 +3,7 @@ pillow
 streamlit==1.31.1
 python-utils
 numpy
-opencv-python-headless
+opencv-contrib-python-headless
 uuid
 keras_facenet
 scikit-learn
