@@ -2,7 +2,7 @@ python==3.9.1
 tensorflow
 pillow
 numpy
-opencv-contrib-python-headless
+opencv-contrib-python
 uuid
 keras_facenet
 scikit-learn
