@@ -6,3 +6,4 @@ opencv-contrib-python-headless
 uuid
 keras_facenet
 scikit-learn
+openpyxl
