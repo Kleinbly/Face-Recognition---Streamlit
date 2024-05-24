@@ -1,9 +1,8 @@
 tensorflow
 pillow
-streamlit
+streamlit==1.31.1
 python-utils
 numpy
 opencv-python-headless
 uuid
 keras_facenet
-mesa-libGL
