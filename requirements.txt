@@ -1,9 +1,7 @@
 keras-facenet==0.3.2
-kiwisolver==1.4.5
 libclang==18.1.1
 mdurl==0.1.2
 ml-dtypes==0.3.2
-namex==0.0.8
 numpy==1.26.4
 opencv-contrib-python-headless==4.9.0.80
 opt-einsum==3.3.0
@@ -24,16 +22,10 @@ setuptools==69.5.1
 six==1.16.0
 smmap==5.0.1
 streamlit==1.35.0
-tenacity==8.3.0
-tensorboard==2.16.2
-tensorboard-data-server==0.7.2
-tensorflow-intel==2.16.1
 termcolor==2.4.0
 threadpoolctl==3.5.0
-toml==0.10.2
 toolz==0.12.1
 tornado==6.4
-typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
 watchdog==4.0.0
