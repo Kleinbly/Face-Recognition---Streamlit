@@ -1,11 +1,8 @@
 tensorflow
 pillow
 numpy
-opencv-contrib-python
+opencv-contrib-python-headless
 uuid
 keras_facenet
 scikit-learn
-cmake
-pyyaml
 streamlit==1.22.0
-libsm6
