@@ -3,5 +3,5 @@ pillow
 streamlit
 python-utils
 numpy
-opencv-python
+opencv-python-headless
 uuid
