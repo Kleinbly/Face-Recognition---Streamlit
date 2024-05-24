@@ -1,0 +1,8 @@
+tensorflow
+pillow
+streamlit
+python-utils
+numpy
+opencv-python
+uuid
+pickle
